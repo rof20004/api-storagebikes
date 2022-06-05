@@ -19,7 +19,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfiguration extends WebMvcConfigurationSupport {
 
     private static final String title = "API StorageBikes";
-    private static final String description = "Storage Bikes microservice to register bikes support";
+    private static final String description = "Storage Bikes microservice to manage bikes support";
     private static final String version = "1.0.0";
     private static final String contactName = "Rodolfo do Nascimento Azevedo";
     private static final String contactEmail = "rof20004@gmail.com";
