@@ -13,7 +13,7 @@
 
 	<groupId>br.com.ffseguros</groupId>
 	<artifactId>api-storagebikes</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>api-storagebikes</name>
 	<description>api-storagebikes</description>
 
